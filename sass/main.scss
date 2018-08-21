@@ -15,6 +15,41 @@
 	  margin: 0px;
 	  text-align: center;
       padding-top: 28px;
-      font-family: glyphicons-halfings;
+      color: white;
+      font-size: 42px
 	}
 }
+
+.row{
+	display: flex;
+}
+
+.timer{
+	margin-left: 67px;
+    margin-top: -63px;
+    display: flex;
+
+  h1{
+	 font-size: 140px;
+    }
+
+  h3{
+      margin-top: -121px;
+      color: darkgray;
+      font-size: 30px;
+    }
+}
+
+.hours{
+	margin-left: 44px;
+}
+
+.minutes{
+	margin-left: 44px;
+}
+
+.seconds{
+	margin-left: 44px;
+}
+
+
