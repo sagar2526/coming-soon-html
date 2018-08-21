@@ -1,0 +1,20 @@
+
+@font-face {
+  font-family: "Squirrel";
+  src: url('../fonts/bootstrap/glypicons-halfings-regular.svg') format("svg"),
+   	   url('../fonts/bootstrap/icomoon/icomon.svg') format("svg");  
+}
+.launcher-image{
+	background-image: url('../images/img_bg_1_gradient.jpg');
+	height: 735px;
+	width: 688px;
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+	h2{
+	  margin: 0px;
+	  text-align: center;
+      padding-top: 28px;
+      font-family: glyphicons-halfings;
+	}
+}
